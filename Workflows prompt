@@ -1,9 +1,9 @@
 Create a workflow that runs every day at 6:00 PM in my local time zone.
 
 When it runs, review my Microsoft 365 activity for the current day across:
-- Outlook email
-- Outlook calendar / Teams meetings
-- Teams chats
+- My Outlook email
+- My Teams meetings
+- My Teams chats
 
 Identify all pending tasks, follow-ups, and action items that are still open as of today.
 
